@@ -1,14 +1,10 @@
 [class *="col"] {
-    min-height: 50px;
-    border: 1px solid #ffff;
-    background-color: #006cf9;
-    text-align: center;
-    line-height: 50px;
-    color: white;
+    min-height: 4vw;
+    background-color: black;
 }
 
 .margin-top {
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 /******Row Padding for Nested Elements*****/
@@ -21,3 +17,6 @@
     border-color: #006cf9;
 }
 /******End Row Padding for Nested Elements*****/
+.green {
+    background-color: #17da00;
+}
